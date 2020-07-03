@@ -1,4 +1,4 @@
-# Sample project for Spring Data JDBC with PostgreSQL
+# Sample project for Spring Data JDBC with Azure Database for PostgreSQL
 
 This sample project is used in the [Use Spring Data JDBC with Azure Database for PostgreSQL](https://docs.microsoft.com/azure/developer/java/spring-framework/configure-spring-data-jdbc-with-azure-postgresql/?WT.mc_id=github-microsoftsamples-judubois) Microsoft documentation quickstart.
 
